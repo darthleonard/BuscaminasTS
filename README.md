@@ -1,0 +1,2 @@
+# BuscaminasTS
+Typescript minesweeper
